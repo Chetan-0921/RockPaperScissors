@@ -1,0 +1,3 @@
+db.url=jdbc:mysql://localhost:3306/rps_game?useSSL=false&serverTimezone=Asia/Kolkata&allowPublicKeyRetrieval=true
+db.user=root
+db.password=YOUR_PASSWORD_HERE
