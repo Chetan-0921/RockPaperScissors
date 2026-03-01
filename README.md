@@ -270,9 +270,9 @@ leaderboard (view)
 
 ## Author
 
-- Name: Your Name
-- GitHub: github.com/YourUsername
-- LinkedIn: linkedin.com/in/YourUsername
+- Name: Mallela Chetan
+- GitHub: https://github.com/Chetan-0921
+
 
 ---
 
