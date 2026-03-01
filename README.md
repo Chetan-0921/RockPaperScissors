@@ -280,26 +280,3 @@ leaderboard (view)
 
 This project is open source and available for learning purposes.
 ```
-
----
-
-## How to Add This to GitHub
-
-**Step 1** — In your project root folder create a new file called `README.md`
-
-**Step 2** — Paste all the content above
-
-**Step 3** — Change these things to your actual details:
-- `YourUsername` → your actual GitHub username
-- `Your Name` → your actual name
-- LinkedIn link → your actual LinkedIn
-
-**Step 4** — Open Git Bash and run:
-```
-git add .
-```
-```
-git commit -m "Added README"
-```
-```
-git push
