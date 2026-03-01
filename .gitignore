@@ -1,0 +1,6 @@
+target/
+src/main/resources/db.properties
+.classpath
+.project
+.settings/
+.DS_Store
